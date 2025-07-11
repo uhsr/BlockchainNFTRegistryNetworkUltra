@@ -1,0 +1,6 @@
+module blockchainnftregistrynetworkultra
+
+go 1.21
+
+require (
+)
